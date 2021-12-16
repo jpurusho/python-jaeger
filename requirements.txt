@@ -1,0 +1,7 @@
+opentracing
+jaeger-client
+gunicorn==20.0.4
+Flask-OpenTracing
+requests==2.7.0
+redis==4.0.2
+redis_opentracing
